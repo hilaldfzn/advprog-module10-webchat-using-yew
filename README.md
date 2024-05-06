@@ -14,3 +14,9 @@ Link github YewChat: https://github.com/jtordgeman/YewChat
 Setelah melakukan clone pada kedua repository, maka kita dapat melakukan interaksi antar page dengan memasukkan username. Hasilnya seperti foto di bawah ini, di mana terdapat tiga user yang melakukan chat bersama.
 
 ![Webchat using YewChat](images/image.jpg)
+
+### 3.2. Add some creativities to the webclient
+
+Pada commit ini, saya mengganti beberapa warna background dan teks untuk menciptakan kontras yang lebih baik dan tampilan minimalis dalam aplikasi chat. Saya juga memakai warna cerah untuk digunakan pada tombol kirim chat, memberikan daya tarik visual yang lebih menarik.
+
+![3.2. Add creativities](images/image2.jpg)
